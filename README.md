@@ -1,4 +1,4 @@
-# 🏰 conquEST - A Turn-Based Strategy Game in Java
+# 🏰 conquEST - A Strategy Game in Java
 
 **conquEST** is a strategy game developed in Java as part of the **Object-Oriented Programming (OOP)** subject in university.  
 The main goal of this project was to explore and apply **inheritance** and other OOP principles in a game development context.
