@@ -5,6 +5,14 @@ The main goal of this project was to explore and apply **inheritance** and other
 
 ---
 
+## 🛠️ Technologies Used
+
+- **Java**
+- Object-Oriented Design (Inheritance, Polymorphism)
+- Java Collections & Custom Classes
+
+---
+
 ## 🧠 Key Concepts
 
 This project emphasizes:
@@ -52,14 +60,6 @@ Take a look at conquEST in action:
 <p align="center">
   <img src="/relatorio/demo_game.png" alt="Game Demo" width="800"/>
 </p>
-
----
-
-## 🛠️ Technologies Used
-
-- **Java**
-- Object-Oriented Design (Inheritance, Polymorphism)
-- Java Collections & Custom Classes
 
 ---
 
